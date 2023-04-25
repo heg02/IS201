@@ -1,0 +1,61 @@
+h2{
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+#top{
+    text-decoration: underline;
+}
+
+.emphasizedText{
+    font-style: italic;
+}
+
+.SubHeading{
+    font-weight: bold;
+    color:darkslategrey;
+}
+
+body{
+    background-color:whitesmoke;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large;
+    border: 5px solid black;
+    margin: 20px;
+    padding: 30px;
+    text-align: center;
+}
+
+ol{
+    list-style-position: inside;
+}
+
+ul{
+    list-style-position: inside;
+}
+
+
+.Youtube{
+    background-color: rgba(169, 169, 169, 0.164);
+    
+}
+
+.Cabin{
+    background-color:#d7ba771b;
+}
+
+.Forest{
+    background-color:rgba(0, 100, 0, 0.117);
+}
+
+.Sea{
+    background-color:rgba(0, 139, 139, 0.208)
+}
+
+.Back{
+    background-color:#d7ba771b;
+}
+
+.Scenes{
+    text-decoration: underline;
+}
